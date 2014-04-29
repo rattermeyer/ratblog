@@ -3,12 +3,15 @@ layout: post
 title: "Favourite Jenkins Plugins"
 date: 2014-04-23 21:12:10 +0200
 comments: true
+sharing: true
+footer: true
 categories: devops jenkins ci
 ---
 While writing an article for a German magazine, I needed to setup a Jenkins again.
 Although I needed not to install many plugins, I decided to create a list of plugins, I would most likely consider for a new project.
 
 So, here comes the list of my current favourite plugins:
+<!-- more -->
 
 * [Git](https://wiki.jenkins-ci.org/display/JENKINS/Git+Plugin "Git"): Git is my current preferred VCS
 * [Git Client Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Git+Client+Plugin)
