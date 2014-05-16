@@ -3,7 +3,6 @@ layout: post
 title: "Vagrant + Puppet: A case study in provisioning development environments"
 date: 2014-05-15 08:06:24 +0200
 comments: true
-published: false
 categories:
 - devops
 - puppet
