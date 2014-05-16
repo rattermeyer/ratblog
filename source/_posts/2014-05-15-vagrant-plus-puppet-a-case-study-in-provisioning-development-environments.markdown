@@ -27,7 +27,7 @@ So, I can proudly present the results of this project. I would appreciate any fe
 * Clone the [vagrant-dev](http://github.com/rattermeyer/vagrant_dev) git repository
 * And run ``vagrant up`` in this directory
 
-This should give you a running box. You still need to re-install VirtualBox guest additions and the like. Have a look at the README
+This should give you a running box. You still need to re-install VirtualBox guest additions and the like. 
 
 # Experiences
 ## Puppet
@@ -53,6 +53,7 @@ Also I found an easy way to create a base box, I kept away from the preseeding. 
 * Tests: If you have infrastructure as code, you should also test it. Which is possible.
 * Support for proxies: In many enterprises you are forced to go through a proxy (and you have to explicitly configure it). I would like to check the vagrant proxy plugin
 * Provisioning of my custom / additional git scripts that make life easier, when working with git.
+* Documentation (how to expand HDD in VirtualBox and Ubuntu), how to re-install Guest Additions, a decent README
 
 # What am I going to try out
 * Testing
